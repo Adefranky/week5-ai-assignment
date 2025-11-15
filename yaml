@@ -1,0 +1,31 @@
+         START
+           |
+           v
+  Define Problem & Objectives
+           |
+           v
+    Data Collection & Access
+           |
+           v
+ Data Cleaning & Preprocessing
+           |
+           v
+    Feature Engineering
+           |
+           v
+    Model Selection & Training
+           |
+           v
+  Validation & Performance Tuning
+           |
+           v
+Interpretability & Fairness Checks
+           |
+           v
+       Deployment Setup
+           |
+           v
+Monitoring & Maintenance (Feedback Loop)
+           |
+           v
+         END
